@@ -1,0 +1,27 @@
+Drill report for Black Mage Eyes.kicad_pcb
+Created on 10/29/2023 2:41:20 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Black Mage Eyes-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.760mm  0.0299"  (8 holes)
+    T2  0.800mm  0.0315"  (7 holes)
+    T3  0.920mm  0.0362"  (4 holes)
+    T4  1.016mm  0.0400"  (34 holes)
+    T5  2.300mm  0.0906"  (2 holes)
+
+    Total plated holes count 55
+
+
+Drill file 'Black Mage Eyes-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (2 holes)
+
+    Total unplated holes count 2
