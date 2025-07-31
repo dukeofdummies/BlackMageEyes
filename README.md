@@ -7,7 +7,7 @@ For details on the Hardware behind it see here
 https://www.deviantart.com/dukeofdummies
 
 This current eye pattern is one strand in this orientation zig zagging up and down, many LEDs aren't actually used
-
+```
 0   18    36    54 55 56 57 58 59 60   78    96
  1 17 19 35 37 53                  61 77 79 95 97  113
  2 16 20 34 38 52                  62 76 80 94 98  112
@@ -18,6 +18,7 @@ This current eye pattern is one strand in this orientation zig zagging up and do
  7 11 25 29 43 47                  67 71 85 89 103 107
  8 10 26 28 44 46                  68 70 86 88 104 106
   9    27    45                     69    87     105
+```
                  
 
 every expression also has a positive number associated with it in the "expression" variable. 
